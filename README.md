@@ -16,11 +16,22 @@
 <h2>Tools & Technologies</h2>
 
 <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&color=3776AB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&color=ff6f00" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Langchain%20-%23000000.svg?&style=for-the-badge&color=00b300" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy%20-%23013243.svg?&style=for-the-badge&color=013243" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SciPy%20-%230874b8.svg?&style=for-the-badge&color=0874b8" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Scikit--learn%20-%23F7931E.svg?&style=for-the-badge&color=f7931e" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MATLAB%20-%23FF6600.svg?&style=for-the-badge&color=0076a8" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/R%20-%23276DC3.svg?&style=for-the-badge&color=276dc3" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
