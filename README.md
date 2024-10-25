@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MATLAB%20-%23FF6600.svg?&style=for-the-badge&color=0076a8" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/R%20-%23276DC3.svg?&style=for-the-badge&color=276dc3" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
@@ -40,5 +41,14 @@
 <img src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Discord%20-%23F7DF1E.svg?&style=for-the-badge&color=3C4C65" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Github Actions%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+<hr>
+
+### About 📌
+
+### ✔  **Domain :** Data Science & Analytics | Mathematics & Statistical Modeling | Machine Learning Fundamentals | Research in AI 💻
+### ✔  **Skills :** Python, SQL, Java, JavaScript, MATLAB, R
+### ✔  **Hobbies :** Music 🎧, Read 📕, Gym 🏋️
+<hr>
 
 
