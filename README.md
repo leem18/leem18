@@ -46,7 +46,7 @@
 
 ### About 📌
 
-### ✔  **Domain :** Data Science & Analytics | Mathematics & Statistical Modeling | Machine Learning Fundamentals | Research in AI 💻
+### ✔  **Domain :** Data Science & Analytics | Machine Learning Fundamentals | Research in AI 💻
 ### ✔  **Skills :** Python, SQL, Java, JavaScript, MATLAB, R
 ### ✔  **Hobbies :** Music 🎧, Read 📕, Gym 🏋️
 <hr>
