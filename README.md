@@ -12,7 +12,7 @@
 <div style="margin-top: 20px;">
     <img src="https://image.ninehire.com/brand/8e9f2340-da8a-11ee-8b85-19c1f26a560b/32ea2220-5d70-11ef-abb5-bb2d99900145.jpg" alt="Growdle" width="200"/>
     &nbsp;&nbsp;
-    <img src="https://cdn.imweb.me/thumbnail/20211214/7429abdfc6a0c.png" alt="Wisely Company" width="200"/>
+    <img src="https://cdn.imweb.me/upload/S20211124f7ca637806e1a/f16f17e4c8972.png" alt="Wisely Company" width="200"/>
     &nbsp;&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2_NIKZWqsBBp83yZvbcWda70wF_EghS56Q&s" alt="o9 Solutions" width="200"/>
 </div>
