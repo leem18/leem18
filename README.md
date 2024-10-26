@@ -4,6 +4,7 @@
 <hr>
 
 <h2>Education & Experience</h2>
+<img src="https://www.hpcwire.com/wp-content/uploads/2024/03/Vanderbilt-.png" alt="Vanderbilt University Logo" width="200"/>
 
 <hr>
 
