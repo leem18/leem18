@@ -4,9 +4,10 @@
 <hr>
 
 <h2>Education & Experience</h2>
-<img src="https://cdn-gdhah.nitrocdn.com/VtlHNiClMsEARfCIyqRJharvNeXzwcSj/assets/images/optimized/rev-918112e/www.globaladmissions.com/uploads/school_logos/vanderbilt-university.png" alt="Vanderbilt University Logo" width="200"/>
+<img src="https://cdn-gdhah.nitrocdn.com/VtlHNiClMsEARfCIyqRJharvNeXzwcSj/assets/images/optimized/rev-918112e/www.globaladmissions.com/uploads/school_logos/vanderbilt-university.png" alt="Vanderbilt University" width="200"/>
 
-<img src="https://cdn.imweb.me/thumbnail/20211214/7429abdfc6a0c.png" alt="Vanderbilt University Logo" width="200"/>
+<img src="https://cdn.imweb.me/thumbnail/20211214/7429abdfc6a0c.png" alt="Wisely Company" width="200"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2_NIKZWqsBBp83yZvbcWda70wF_EghS56Q&s" alt="Wisely Company" width="200"/>
 
 <hr>
 
