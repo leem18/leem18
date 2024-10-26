@@ -14,7 +14,7 @@
     &nbsp;&nbsp;
     <img src="https://cdn.imweb.me/upload/S20211124f7ca637806e1a/f16f17e4c8972.png" alt="Wisely Company" width="200"/>
     &nbsp;&nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2_NIKZWqsBBp83yZvbcWda70wF_EghS56Q&s" alt="o9 Solutions" width="200"/>
+    <img src="https://mma.prnewswire.com/media/471601/o9_Logo.jpg?p=facebook" alt="o9 Solutions" width="200"/>
 </div>
 <hr>
 
