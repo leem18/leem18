@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MATLAB%20-%23FF6600.svg?&style=for-the-badge&color=0076a8" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/R%20-%23276DC3.svg?&style=for-the-badge&color=276dc3" />&nbsp;&nbsp;
