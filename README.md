@@ -3,18 +3,14 @@
 
 <hr>
 
-<h2>Education & Experience</h2>
+<h2>Project & Experience</h2>
 <div>
-    <img src="https://cdn-gdhah.nitrocdn.com/VtlHNiClMsEARfCIyqRJharvNeXzwcSj/assets/images/optimized/rev-918112e/www.globaladmissions.com/uploads/school_logos/vanderbilt-university.png" alt="Vanderbilt University" width="200"/>
-</div>
+### LLM-based Investment Valuation Model | Python, LangChain, LangSmith, NumPy, Pandas
+### Mutimodal RAG Framework & Vector DB Embedding for Financial Data | Python, LangChain, ChromaDB
+### GAN-like Evaluation Pipeline for LLM | Python, LangChain, NumPy, Pandas
+### Customer Life Time Value Forecasting Model | SQL, Python, NumPy, Pandas, Curve-Fitting
+### Texture-Map Generation for 3D Mesh Clothing based on Stable Diffusion | Python, Pytorch, Docker, Cuda
 
-<!-- Other logos in a horizontal row below -->
-<div style="margin-top: 20px;">
-    <img src="https://image.ninehire.com/brand/8e9f2340-da8a-11ee-8b85-19c1f26a560b/32ea2220-5d70-11ef-abb5-bb2d99900145.jpg" alt="Growdle" width="200"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.imweb.me/upload/S20211124f7ca637806e1a/f16f17e4c8972.png" alt="Wisely Company" width="200"/>
-    &nbsp;&nbsp;
-    <img src="https://mma.prnewswire.com/media/471601/o9_Logo.jpg?p=facebook" alt="o9 Solutions" width="200"/>
 </div>
 <hr>
 
