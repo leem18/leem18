@@ -5,6 +5,7 @@
 
 <h2>Project & Experience</h2>
 <div>
+  
 ### LLM-based Investment Valuation Model | Python, LangChain, LangSmith, NumPy, Pandas
 ### Mutimodal RAG Framework & Vector DB Embedding for Financial Data | Python, LangChain, ChromaDB
 ### GAN-like Evaluation Pipeline for LLM | Python, LangChain, NumPy, Pandas
