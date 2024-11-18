@@ -6,11 +6,11 @@
 <h2>Project & Experience</h2>
 <div>
   
-### LLM-based Investment Valuation Model | Python, LangChain, LangSmith, NumPy, Pandas
-### Mutimodal RAG Framework & Vector DB Embedding for Financial Data | Python, LangChain, ChromaDB
-### GAN-like Evaluation Pipeline for LLM | Python, LangChain, NumPy, Pandas
-### Customer Life Time Value Forecasting Model | SQL, Python, NumPy, Pandas, Curve-Fitting
-### Texture-Map Generation for 3D Mesh Clothing based on Stable Diffusion | Python, Pytorch, Docker, Cuda
+### LLM-based Investment Valuation Model 
+### Mutimodal RAG Framework & Vector DB Embedding for Financial Data 
+### GAN-like Evaluation Pipeline for LLM 
+### Customer Life Time Value Forecasting Model 
+### Texture-Map Generation for 3D Mesh Clothing based on Stable Diffusion 
 
 </div>
 <hr>
