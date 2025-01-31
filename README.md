@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&color=ff6f00" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Langchain%20-%23000000.svg?&style=for-the-badge&color=00b300" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NumPy%20-%23013243.svg?&style=for-the-badge&color=013243" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054" />&nbsp;&nbsp;
