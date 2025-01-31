@@ -8,7 +8,7 @@
   
 ### LLM-based Investment Valuation Model 
 ### Mutimodal RAG Framework & Vector DB Embedding for Financial Data 
-### GAN-like Evaluation Pipeline for LLM 
+### [GraphRAG: Graph-Based Retrieval System](https://github.com/leem18/GraphRAG-LLM)
 ### Customer Life Time Value Forecasting Model 
 ### Texture-Map Generation for 3D Mesh Clothing based on Stable Diffusion 
 
