@@ -5,12 +5,11 @@
 
 <h2>Project & Experience</h2>
 <div>
-  
-### LLM-based Investment Valuation Model 
-### Mutimodal RAG Framework & Vector DB Embedding for Financial Data 
+
 ### [GraphRAG: Graph-Based Retrieval System](https://github.com/leem18/GraphRAG-LLM)
-### Customer Life Time Value Forecasting Model 
-### Texture-Map Generation for 3D Mesh Clothing based on Stable Diffusion 
+### [Customer Life Time Value Forecasting Model ](https://github.com/leem18/LTV-Forecast-Model)
+### LLM-based Investment Valuation Model with Mutimodal RAG for Finance
+### Texture-Map Generation for 3D Mesh Clothing based on Stable Diffusion - On going
 
 </div>
 <hr>
