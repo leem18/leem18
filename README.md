@@ -25,6 +25,9 @@
 <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&color=3776AB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CUDA-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Accelerate-%23FF4B4B.svg?&style=for-the-badge&logo=lightning&logoColor=white" />
 <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Langchain%20-%23000000.svg?&style=for-the-badge&color=00b300" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NumPy%20-%23013243.svg?&style=for-the-badge&color=013243" />&nbsp;&nbsp;
